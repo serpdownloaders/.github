@@ -1,15 +1,5 @@
 # SERP Downloaders
 
-## Connect with us
-
-- https://serpdownloaders.hashnode.dev/
-- https://serpdownloaders.github.io
-- https://www.facebook.com/serpdownloaders/
-- https://github.com/serpdownloaders
-- https://www.linkedin.com/company/serpdownloaders/
-
-
-
 <details>
   <summary> △ ▽ △ ▽ △ ▽ △ ▽ △ ▽ △ ▽</summary>
 
