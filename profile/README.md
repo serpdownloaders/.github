@@ -3,49 +3,46 @@
 <details>
   <summary> △ ▽ △ ▽ △ ▽ △ ▽ △ ▽ △ ▽</summary>
 
-### Repos
+// CONTRIBUTORS
 
-- [123movies-downloader](https://serpdownloaders/123movies-downloader)
-- [circle-downloader](https://serpdownloaders/circle-downloader)
-- [clientclub-downloader](https://serpdownloaders/clientclub-downloader)
-- [facebook-video-downloader](https://serpdownloaders/facebook-video-downloader)
-- [gohighlevel-downloader](https://serpdownloaders/gohighlevel-downloader)
-- [gokollab-downloader](https://serpdownloaders/gokollab-downloader)
-- [how-to-download-vimeo-videos](https://serpdownloaders/how-to-download-vimeo-videos)
-- [instagram-downloader](https://serpdownloaders/instagram-downloader)
-- [kajabi-video-downloader](https://serpdownloaders/kajabi-video-downloader)
-- [linkedin-downloader](https://serpdownloaders/linkedin-downloader)
-- [loom-video-downloader](https://serpdownloaders/loom-video-downloader)
-- [m3u8-downloader](https://serpdownloaders/m3u8-downloader)
-- [mindvalley-downloader](https://serpdownloaders/mindvalley-downloader)
-- [patreon-downloader](https://serpdownloaders/patreon-downloader)
-- [pinterest-video-downloader](https://serpdownloaders/pinterest-video-downloader)
-- [podia-downloader](https://serpdownloaders/podia-downloader)
-- [reddit-downloader](https://serpdownloaders/reddit-downloader)
-- [skool-downloader](https://serpdownloaders/skool-downloader)
-- [sprout-video-downloader](https://serpdownloaders/sprout-video-downloader)
-- [tellatv-downloader](https://serpdownloaders/tellatv-downloader)
-- [thinkific-downloader](https://serpdownloaders/thinkific-downloader)
-- [tiktok-video-downloader](https://serpdownloaders/tiktok-video-downloader)
-- [twitch-video-downloader](https://serpdownloaders/twitch-video-downloader)
-- [twitter-x-downloader](https://serpdownloaders/twitter-x-downloader)
-- [vimeo-video-downloader](https://serpdownloaders/vimeo-video-downloader)
-- [whop-video-downloader](https://serpdownloaders/whop-video-downloader)
-- [wistia-video-downloader](https://serpdownloaders/wistia-video-downloader)
+- https://github.com/devinschumacher
+- https://github.com/serp-y
 
-### Projects
+// REPOS
 
-- [SERP](https://github.com/serpcompany)
-- [SERP AI](https://github.com/serp-ai)
-- [SERP University](https://github.com/serpuniversity)
+* https://github.com/serpdownloaders/kajabi-video-downloader
+* https://github.com/serpdownloaders/m3u8-downloader
+* https://github.com/serpdownloaders/gokollab-downloader
+* https://github.com/serpdownloaders/gohighlevel-downloader
+* https://github.com/serpdownloaders/clientclub-downloader
+* https://github.com/serpdownloaders/123movies-downloader
+* https://github.com/serpdownloaders/loom-video-downloader
+* https://github.com/serpdownloaders/vimeo-video-downloader
+* https://github.com/serpdownloaders/skool-downloader
+* https://github.com/serpdownloaders/whop-video-downloader
+* https://github.com/serpdownloaders/circle-downloader
+* https://github.com/serpdownloaders/how-to-download-vimeo-videos
+* https://github.com/serpdownloaders/twitter-x-downloader
+* https://github.com/serpdownloaders/twitch-video-downloader
+* https://github.com/serpdownloaders/facebook-video-downloader
+* https://github.com/serpdownloaders/patreon-downloader
+* https://github.com/serpdownloaders/instagram-downloader
+* https://github.com/serpdownloaders/wistia-video-downloader
+* https://github.com/serpdownloaders/reddit-downloader
+* https://github.com/serpdownloaders/linkedin-downloader
+* https://github.com/serpdownloaders/pinterest-video-downloader
+* https://github.com/serpdownloaders/tiktok-video-downloader
+* https://github.com/serpdownloaders/sprout-video-downloader
+* https://github.com/serpdownloaders/thinkific-downloader
+* https://github.com/serpdownloaders/tellatv-downloader
+* https://github.com/serpdownloaders/mindvalley-downloader
+
+// ORGS
+
 - [SERP Downloaders](https://github.com/serpdownloaders)
-- [SERP Tools](https://github.com/serptools)
 - [SERP Apps](https://github.com/serpapps)
-- [SERP Best](https://github.com/serpbest)
-- [SERP Games](https://github.com/games)
 - [SERPXXX](https://github.com/serpxxx)
 - [Devin Schumacher](https://github.com/devinschumacher)
-- [Shadcnblocks](https://github.com/shadcnblockscom)
 - https://github.com/howtodownloadvideos
 
 </details>
